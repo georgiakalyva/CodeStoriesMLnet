@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.deps.json
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.dll
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.pdb
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.AssemblyInfo.cs
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.dll
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.Model\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.pdb

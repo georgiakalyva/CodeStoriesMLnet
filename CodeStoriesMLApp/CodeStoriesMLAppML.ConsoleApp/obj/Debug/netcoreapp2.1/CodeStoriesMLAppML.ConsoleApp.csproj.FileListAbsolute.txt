@@ -1,0 +1,15 @@
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.deps.json
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.runtimeconfig.json
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.dll
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.pdb
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.dll
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\CodeStoriesMLAppML.Model.pdb
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.AssemblyInfo.cs
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.csproj.CopyComplete
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.dll
+C:\Users\georg\source\repos\CodeStoriesMLApp\CodeStoriesMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\CodeStoriesMLAppML.ConsoleApp.pdb
